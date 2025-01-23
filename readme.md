@@ -5,7 +5,7 @@ A feature-rich backend for a blogging platform that supports user and admin role
 ---
 
 ## 🚀 Live URL
-🔗 **Backend API**: [http://your-live-backend-url.com](http://your-live-backend-url.com)
+🔗 **Backend API**: [https://blog-bro-nine.vercel.app/](https://blog-bro-nine.vercel.app/)
 
 ---
 
@@ -91,7 +91,7 @@ JWT_SECRET=your_jwt_secret
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/tazim5032/blogs-bro.git
    cd blogging-platform-backend
    ```
 
