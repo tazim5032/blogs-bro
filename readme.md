@@ -9,6 +9,14 @@ A feature-rich backend for a blogging platform that supports user and admin role
 
 ---
 
+
+## 🚀 Admin Info  
+To log in as an admin, use the following credentials:  
+- **Email**: tazim@gmail.com  
+- **Password**: 123456  
+
+---
+
 ## 📋 Features
 
 ### User Roles
